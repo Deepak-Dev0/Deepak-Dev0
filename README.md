@@ -1,6 +1,6 @@
 # 🤖 Hi, I'm Deepak
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Future+AI+Engineer;Learning+from+Zero+to+Mastery;Building+Smart+Systems;One+Step+at+a+Time" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Future+AI+Engineer;Learning+from+Zero+to+Mastery;Building+Smart+Systems" />
 
 ---
 
