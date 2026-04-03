@@ -59,8 +59,7 @@
 
 🚧 AI Chatbot  
 🚧 Recommendation System  
-🚧 Computer Vision App  
-🚧 Personal JARVIS AI System  
+🚧 Computer Vision App   
 
 ---
 
